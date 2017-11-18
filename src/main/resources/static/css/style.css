@@ -1,0 +1,31 @@
+.content {
+
+}
+
+.tag {
+    border-radius: 3px;
+    background: #66ccff;
+    padding: 3px;
+    margin: 0 2px;
+}
+
+.tag:hover {
+    background: #ff4d4d;
+}
+
+.accepted {
+    background: #99ff99;
+}
+
+.tag-view {
+    margin: 10px 0px;
+}
+
+#result-table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+.table-header {
+    font-weight: bold;
+}
